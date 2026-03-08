@@ -2,10 +2,15 @@
 An Quiz App built using HTML, CSS, and JavaScript.  It displays multiple-choice questions, tracks the user's answers,  shows a timer and progress bar, and calculates the final score.
 ## Features
 • Multiple-choice questions
+
 • Option selection with highlighting
+
 • Timer for each question
+
 • Progress bar to track quiz progress
+
 • Final score display
+
 • Clean and responsive user interface
 
 ## Technologies Used
