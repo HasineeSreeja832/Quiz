@@ -10,7 +10,9 @@ An Quiz App built using HTML, CSS, and JavaScript.  It displays multiple-choice 
 
 ## Technologies Used
 • HTML
+
 • CSS
+
 • JavaScript
 
 ## How to Run
